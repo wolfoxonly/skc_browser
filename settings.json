@@ -33,7 +33,7 @@
 
   // database settings (MongoDB)
   "dbsettings": {
-    "user": "user",
+    "user": "~username",
     "password": "~password",
     "database": "explorerdb",
     "address": "localhost",
